@@ -1,0 +1,10 @@
+<section class="secRight">
+    <div class="paras">
+    <a href="" class="text-big"></a>
+    <p class="text-small">
+        </p>
+    </div>
+    <div class="thumbnail">
+        <img src="https://source.unsplash.com/collection/" alt="imagehai" class="imgFluid">
+    </div>
+</section>
