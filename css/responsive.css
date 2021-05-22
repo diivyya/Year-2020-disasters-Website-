@@ -1,0 +1,38 @@
+
+@media only screen and (max-width :1200px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 470px;
+    }
+
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .rightNav{
+        text-align: center;
+        width: 80%;
+    }
+    .h-nav-resp{
+        height: 72px;
+    }
+    .burger{
+        display: block;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .secRight{
+        flex-direction: column-reverse;
+    }
+    .text-small{
+        text-align: center;
+    }
+    .text-big{
+        text-align: center;
+    }
+}
